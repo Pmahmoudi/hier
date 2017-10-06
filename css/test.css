@@ -1,0 +1,24 @@
+nav {
+    background-color: black;
+    padding:10px;
+}
+
+nav a {
+    color:white;
+    font-weight:bold;
+    text-decoration:none;
+    padding-right:5px;
+    border-right:2px solid white;
+}
+
+div {
+    width: 1200px;
+    margin: auto;
+}
+
+main a img {
+    border:3px solid black;
+}
+table {
+    border-collapse: collapse;
+}
