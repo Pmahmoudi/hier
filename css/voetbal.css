@@ -1,5 +1,5 @@
 body {
-    font-family: "Arial", "sans-serif";
+    font-family: Arial;
 }
 
 nav {
@@ -16,18 +16,10 @@ nav a {
 }
 
 div {
-    width: 1200px;
+    width:1200px;
     margin: auto;
 }
 
-main a img {
-
+article {
+    margin: auto;
 }
-table {
-    border-collapse: collapse;
-}
-
-table a {
-    text-decoration: none;
-}
-
